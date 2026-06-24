@@ -12,4 +12,4 @@
 
 ## Running the Project
 
-*Note: When first making your GitHub repository description of your project's work, think about whether the description best captures how deep your thinking process is to the employer*
+*Note: When first making your GitHub repository description of your project's work, think about whether the description best captures how deep your thinking process is to the person reading it*
